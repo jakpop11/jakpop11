@@ -1,4 +1,4 @@
-![Project icon](/relative/path/to/icon.svg?raw=true&sanitize=true "Optional title")  
+![Project icon or banner](/relative/path/to/icon.svg?raw=true&sanitize=true "Optional title")  
 <h3 align="center">Project Name</h3>
 <p align="center">Short descripion</p>
 
