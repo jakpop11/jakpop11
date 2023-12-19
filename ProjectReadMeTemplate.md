@@ -24,11 +24,12 @@
 
 ### Used technology:
 
-<h3>
+<!-- Don't use headers for this stuff, bcs on mobile it's displaying link 🔗 icon -->
+<p>
   <img width="32" align="center" alt="C#" src="https://github.com/jakpop11/jakpop11/blob/main/Assets/Icons/c_sharp.svg"></a>
   <span> . </span>
   <img width="32" align="center" alt="C#" src="https://github.com/jakpop11/jakpop11/blob/main/Assets/Icons/python.svg"></a>
-</h3>
+</p>
 
 ## Installation
 
