@@ -1,4 +1,4 @@
-## Hey! I'm Jakub 😄
+## Hey! I'm Jackob 😄
 <a href="https://giphy.com/stickers/kawaii-hiiii-cat-lGhBlBMIN2XsEteTN3">
   <img width="30%" align="right" alt="CatProgrammerWaving" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 </a>
