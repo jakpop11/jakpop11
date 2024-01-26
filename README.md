@@ -49,7 +49,8 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 
 
 ### Working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=dMb&theme=dracula)](https://github.com/jakpop11/dMb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=dMb&theme=dracula)](https://github.com/jakpop11/dMb)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=TennoTyper&theme=dracula)](https://github.com/jakpop11/TennoTyper)
 - Academic projects
 - Unity board game
 
