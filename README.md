@@ -16,7 +16,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <b>Languages:</b>
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="Languages" src="https://skillicons.dev/icons?i=cs,py,java,mysql" />
+      <img height="32" align="center" alt="Languages" src="https://skillicons.dev/icons?i=cs,py,java,swift,mysql" />
     </a>
   </p>
 
@@ -62,7 +62,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ### Learning:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,swift,java,wordpress,html,js" />
+    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,androidstudio,kotlin,wordpress,html,js" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ### Want to learn:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="LearningList" src="https://skillicons.dev/icons?i=html,js,css,androidstudio,kotlin,angular" />
+    <img height="32" align="center" alt="LearningList" src="https://skillicons.dev/icons?i=html,js,css,angular" />
   </a>
 </p>
 
