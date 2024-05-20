@@ -55,9 +55,12 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 - Academic projects
 - Unity board game
 
-<a href="https://giphy.com/stickers/happy-kawaii-computer-hiJ9ypGI5tIKdwKoK2">
+
+<!-- Picture -->
+<!-- <a href="https://giphy.com/stickers/happy-kawaii-computer-hiJ9ypGI5tIKdwKoK2">
   <img width="30%" alt="CatProgrammerCoding" src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif">
-</a>
+</a> -->
+<img width="30%" alt="ComputerCapybaraCoding" src="https://github.com/jakpop11/jakpop11/blob/main/Images/ComputerCapybaraMirrored.gif">
 
 
 ### Learning:
