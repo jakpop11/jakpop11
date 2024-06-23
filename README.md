@@ -31,7 +31,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <b>Frameworks:</b>
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="Framewoks" src="https://skillicons.dev/icons?i=dotnet,sqlite" />
+      <img height="32" align="center" alt="Framewoks" src="https://skillicons.dev/icons?i=dotnet,sqlite,selenium" />
     </a>
   </p>
 </p>
@@ -66,7 +66,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ### Learning:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,swift,androidstudio,kotlin,selenium,wordpress,html,js" />
+    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,androidstudio,kotlin,wordpress,html,js" />
   </a>
 </p>
 
