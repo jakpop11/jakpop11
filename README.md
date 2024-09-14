@@ -40,7 +40,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <b>Programs:</b>
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=visualstudio,idea,figma,unity" />
+      <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=visualstudio,idea,figma,unity,wordpress" />
     </a>
   </p>
 </p>
@@ -66,7 +66,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ### Learning:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,androidstudio,kotlin,wordpress,html,js" />
+    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,androidstudio,kotlin,html,js" />
   </a>
 </p>
 
