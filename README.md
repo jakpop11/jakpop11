@@ -2,13 +2,13 @@
 <a href="https://giphy.com/stickers/kawaii-hiiii-cat-lGhBlBMIN2XsEteTN3">
   <img width="30%" align="right" alt="CatProgrammerWaving" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 </a>
-<i>Computer Science Student</i> 👨‍🎓
+<i>Computer Science Graduate</i> 👨‍🎓
 
 
 ### About me
 Passionate programmer with a keen interest in mobile app and game development.
 With a calm and focused approach, constantly seeking ways to enhance the experience for both users and developers.
-As a well-organized student, I am looking for opportunity to contribute my technical skills and creative mindset to deliver exceptional results.
+As a well-organized person, I am looking for opportunity to contribute my technical skills and creative mindset to deliver exceptional results.
 
 
 ### Skills 
@@ -40,7 +40,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
   <b>Programs:</b>
   <p>
     <a href="https://skillicons.dev">
-      <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=visualstudio,idea,figma,unity,wordpress" />
+      <img height="32" align="center" alt="Programs" src="https://skillicons.dev/icons?i=visualstudio,idea,figma,godot,unity,wordpress" />
     </a>
   </p>
 </p>
@@ -48,12 +48,10 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ---
 
 
-### Working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=TennoTyper&theme=dracula)](https://github.com/jakpop11/TennoTyper)
+### My projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=meta-catag&theme=dracula)](https://github.com/jakpop11/meta-catag)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=elementor-forms-mailmint-action&theme=dracula)](https://github.com/jakpop11/elementor-forms-mailmint-action)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jakpop11&repo=dMb&theme=dracula)](https://github.com/jakpop11/dMb)  
-- Academic projects
-- Unity board game
 
 
 <!-- Picture -->
@@ -66,7 +64,7 @@ As a well-organized student, I am looking for opportunity to contribute my techn
 ### Learning:
 <p>
   <a href="https://skillicons.dev">
-    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=unity,androidstudio,kotlin,html,js" />
+    <img height="32" align="center" alt="Learning" src="https://skillicons.dev/icons?i=godot,unity,androidstudio,kotlin,html,js,php" />
   </a>
 </p>
 
